@@ -293,7 +293,7 @@
 .u-section-3 .u-text-1 {
   font-weight: 700;
   font-size: 1.875rem;
-  margin: 60px 1105px 0 0;
+  margin: 60px 115px 0 0;
 }
 
 .u-section-3 .u-text-2 {
@@ -318,7 +318,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-text-1 {
-    margin-right: 905px;
+    margin-right: 115px;
   }
 
   .u-section-3 .u-text-2 {
@@ -337,7 +337,7 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-text-1 {
-    margin-right: 685px;
+    margin-right: 115px;
   }
 
   .u-section-3 .u-text-2 {
@@ -361,7 +361,7 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-right: 505px;
+    margin-right: 115px;
   }
 
   .u-section-3 .u-text-2 {
@@ -381,7 +381,7 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-text-1 {
-    margin-right: 305px;
+    margin-right: 115px;
   }
 
   .u-section-3 .u-text-2 {
